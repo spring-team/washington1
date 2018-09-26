@@ -1,13 +1,3 @@
-// You belong everywhere you are.
-
-// You are the delta in what you do, not the things you did in the past
-
-// Life is its own reason for being. It is beautiful to have a sense of beauty.
-
-// You belong everywhere you are.
-
-// Make new mistakes as fast as you can.
-
 /*
  * Copyright © 2018 Atomist, Inc.
  *
@@ -28,8 +18,10 @@ package com.springone;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.*;
 
 @SpringBootApplication
+@ComponentScan
 public class Washington1Application {
 
 	public static void main(String[] args) {
