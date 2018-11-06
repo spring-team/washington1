@@ -1,0 +1,132 @@
+[
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Missing package-info.java file.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Controller.java",
+      "lineFrom1": 0,
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "First sentence should end with a period.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Controller.java",
+      "lineFrom1": "25",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "File contains tab characters (this is the first instance).",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Controller.java",
+      "lineFrom1": "31",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Missing a Javadoc comment.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Controller.java",
+      "lineFrom1": "31",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Line is longer than 80 characters (found 98).",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Controller.java",
+      "lineFrom1": "33",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Missing a Javadoc comment.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Controller.java",
+      "lineFrom1": "37",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Parameter name should be final.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Controller.java",
+      "lineFrom1": "38",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Using the '.*' form of import should be avoided - org.springframework.context.annotation.*.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Application.java",
+      "lineFrom1": "21",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Missing a Javadoc comment.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Application.java",
+      "lineFrom1": "23",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Utility classes should not have a public or default constructor.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Application.java",
+      "lineFrom1": "23",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "File contains tab characters (this is the first instance).",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Application.java",
+      "lineFrom1": "26",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Missing a Javadoc comment.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Application.java",
+      "lineFrom1": "26",
+      "offset": -1
+    }
+  },
+  {
+    "category": "checkstyle",
+    "severity": "error",
+    "detail": "Parameter args should be final.",
+    "sourceLocation": {
+      "path": "/src/main/java/com/springone/Washington1Application.java",
+      "lineFrom1": "26",
+      "offset": -1
+    }
+  }
+]
