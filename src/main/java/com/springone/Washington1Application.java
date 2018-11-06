@@ -26,5 +26,8 @@ public class Washington1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Washington1Application.class, args);
 	}
+	
+	public void foo() {
+	}
 
 }
