@@ -1,7 +1,7 @@
 ---
 applications:
 - name: "washington1"
-  memory: 1024M
+  memory: 1024M 
   instances: 1 
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
   env:
